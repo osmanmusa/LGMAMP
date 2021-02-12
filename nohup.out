@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "LAMP.py", line 11, in <module>
+    import numpy as np
+ImportError: No module named numpy
