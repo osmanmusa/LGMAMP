@@ -19,11 +19,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LGMAMP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="336">
+              <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -82,6 +94,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -91,6 +106,7 @@
         <option value="$PROJECT_DIR$/tools/train.py" />
         <option value="$PROJECT_DIR$/tools/networks.py" />
         <option value="$PROJECT_DIR$/LGMAMP.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -99,6 +115,7 @@
     <option name="width" value="2560" />
     <option name="height" value="1347" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,6 +136,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
@@ -207,16 +225,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1347" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49472097" visible="true" weight="0.10220995" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49472097" visible="true" weight="0.18316832" />
       <window_info id="Structure" order="1" sideWeight="0.5095238" side_tool="true" weight="0.15856236" />
       <window_info id="Favorites" order="2" sideWeight="0.50527906" side_tool="true" weight="0.11640625" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32880846" />
-      <window_info active="true" anchor="bottom" x="507" y="829" width="1981" height="346" id="Run" order="2" type="WINDOWED" visible="true" weight="0.22949462" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3529412" />
+      <window_info anchor="bottom" x="0" y="289" width="1440" height="346" id="Run" order="2" type="WINDOWED" visible="true" weight="0.22949462" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.63868064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891467" />
@@ -229,16 +247,16 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49472097" visible="true" weight="0.19066148" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49472097" visible="true" weight="0.18316832" />
       <window_info id="Structure" order="1" sideWeight="0.5095238" side_tool="true" weight="0.15856236" />
       <window_info id="Favorites" order="2" sideWeight="0.50527906" side_tool="true" weight="0.11640625" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32880846" />
-      <window_info active="true" anchor="bottom" x="1212" y="1024" width="1348" height="346" id="Run" internal_type="SLIDING" order="2" type="SLIDING" visible="true" weight="0.36288318" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3529412" />
+      <window_info active="true" anchor="bottom" x="0" y="289" width="1440" height="346" id="Run" order="2" type="WINDOWED" visible="true" weight="0.22949462" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.63868064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32891467" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891467" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32977462" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.24275061" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -295,8 +313,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LGMAMP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="336">
+          <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
